@@ -1,6 +1,6 @@
 ## Top Python Contributors Scraper
 
-This script ranks top Python contributors by exploring the most-starred repositories on GitHub, grabbing the top contributors from each project, and enriching every user with contribution stats, profile metadata, and a per-repo Python commit breakdown. Results are written to `sorted_top_python_contributors.csv`, sorted by total contributions.
+This script ranks top Python contributors by exploring the most-starred Python repositories on GitHub, grabbing the top contributors from each project, and enriching every user with name, email, contribution stats, profile metadata, and a per-repo Python commit breakdown. Results are written to `sorted_top_python_contributors.csv`, sorted by total contributions.
 
 ## How It Works
 
